@@ -406,7 +406,7 @@
   .mobile-menu .mobile-menu-container > ul > li > a:hover,
   .mobile-menu div.nav-menu ul.nav-menu > li > a:hover,
   .mobile-menu div.nav-menu > ul > li > a:hover {
-    color: #9acf6a;
+    color: #134e96;
   }
   .mobile-menu .mobile-menu-container ul.nav-menu > li:first-child a,
   .mobile-menu .mobile-menu-container > ul > li:first-child a,
@@ -434,7 +434,7 @@
   .mobile-menu .mobile-menu-container > ul > li .fa:hover,
   .mobile-menu div.nav-menu ul.nav-menu > li .fa:hover,
   .mobile-menu div.nav-menu > ul > li .fa:hover {
-    color: #9acf6a;
+    color: #134e96;
   }
   .mobile-menu .mobile-menu-container ul.nav-menu > li > ul.sub-menu > li > a,
   .mobile-menu .mobile-menu-container ul.nav-menu > li > ul.children > li > a,
@@ -454,7 +454,7 @@
   .mobile-menu div.nav-menu ul.nav-menu > li > ul.children > li > a:hover,
   .mobile-menu div.nav-menu > ul > li > ul.sub-menu > li > a:hover,
   .mobile-menu div.nav-menu > ul > li > ul.children > li > a:hover {
-    color: #9acf6a;
+    color: #134e96;
   }
   .mobile-menu .mobile-menu-container ul.nav-menu > li ul.sub-menu,
   .mobile-menu .mobile-menu-container ul.nav-menu > li ul.children,
@@ -819,7 +819,7 @@
   }
   .main-container .product-view .product .woocommerce-tabs ul.tabs li.active a {
     background: none;
-    color: #9acf6a;
+    color: #134e96;
   }
   .main-container .product-view .product .woocommerce-tabs ul.tabs li a {
     background: none;
@@ -828,7 +828,7 @@
   }
   .main-container .product-view .product .woocommerce-tabs ul.tabs li a:hover {
     background: none;
-    color: #9acf6a;
+    color: #134e96;
   }
   .main-container .product-view .product .woocommerce-tabs ul.tabs li a:after {
     display: none;
@@ -947,7 +947,7 @@
   .main-container .home-tabs .title-container .home-tabs-title li a:hover,
   .main-container .home-tabs .title-container .home-tabs-title li a.active {
     background: none;
-    color: #9acf6a;
+    color: #134e96;
   }
   .main-container .home-tabs .title-container .home-tabs-title li a:after {
     display: none;

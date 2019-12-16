@@ -283,7 +283,7 @@
   color: #363f4d;
 }
 .header-container.header-2 .header-search:hover .widget_product_search #searchform #wsearchsubmit:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .header-container.header-2 .header-search .widget_product_search #searchform .form-input {
   padding: 0;
@@ -433,7 +433,7 @@
   content: "\f125";
 }
 .owl-carousel .owl-controls .owl-buttons div:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .brand-logo .brands-carousel {
   padding: 30px 0;
@@ -457,7 +457,7 @@
   margin: 0;
 }
 .main-container .title2 h3 {
-  background: #9acf6a;
+  background: #134e96;
   color: #fff;
   padding: 13px 10px;
   font-size: 1em;
@@ -474,7 +474,7 @@
   border-width: 25px 0 25px 6px;
   border-style: solid;
   border-color: transparent;
-  border-left-color: #9acf6a;
+  border-left-color: #134e96;
   right: -6px;
   top: 0;
 }
@@ -490,7 +490,7 @@
   font-size: 1em;
 }
 .main-container .title4 h3:after {
-  border-bottom: 2px solid #9acf6a;
+  border-bottom: 2px solid #134e96;
   content: "";
   width: 45px;
   display: block;
@@ -682,7 +682,7 @@
   background: #fff;
 }
 .main-container .popular-categories .categories-carousel .item:hover .item-inner .category-list h3 a {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .popular-categories .categories-carousel .item .item-inner {
   margin: auto;
@@ -721,7 +721,7 @@
   color: #7a7a7a;
 }
 .main-container .popular-categories .categories-carousel .item .item-inner .category-list ul li a:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .category-products .title1 {
   margin-top: 25px;
@@ -754,7 +754,7 @@
   display: block;
 }
 .main-container .category-products .tab-links ul li a:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .category-products .content {
   padding-left: 10px;
@@ -799,7 +799,7 @@
   color: #363f4d;
 }
 .main-container .category-products.layout2 .title-links .tab-links ul li a:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .category-products.layout2 .static-category {
   border-color: #ebebeb;
@@ -974,7 +974,7 @@
   text-transform: capitalize;
 }
 .main-container .home-tabs.layout2 .title-container .home-tabs-title li a:after {
-  background: #9acf6a;
+  background: #134e96;
   content: "";
   width: 0;
   height: 2px;
@@ -1106,7 +1106,7 @@
   margin: 0;
 }
 .main-container .products-style2 .shop-products .product-wrapper .add-to-links .add_to_cart_inline a.button:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .products-style2 .shop-products.grid-view .item-col .product-wrapper:before {
   display: none;
@@ -1195,7 +1195,7 @@
   display: none;
 }
 .main-container .testimonials-container .testimonials .author a {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .testimonials-container .testimonials .author a:hover {
   text-decoration: underline;
@@ -1288,7 +1288,7 @@
   color: #363f4d;
 }
 .main-container .latest-posts-container .post-wrapper .post-info .post-title a:hover {
-  color: #9acf6a;
+  color: #134e96;
 }
 .main-container .latest-posts-container .post-wrapper .post-info .post-date {
   display: none;
@@ -1311,7 +1311,7 @@
 }
 .main-container .latest-posts-container .post-wrapper .post-info .post-meta span.post-author:before {
   content: "\f41a";
-  color: #9acf6a;
+  color: #134e96;
   display: inline-block;
   font-family: 'Ionicons';
   margin-right: 5px;
@@ -1326,7 +1326,7 @@
 }
 .main-container .latest-posts-container .post-wrapper .post-info .post-meta span.post-comment:before {
   content: "\f127";
-  color: #9acf6a;
+  color: #134e96;
   display: inline-block;
   font-family: 'Ionicons';
   margin-right: 5px;
@@ -1345,7 +1345,7 @@
   font-size: 0.857em;
 }
 .main-container .latest-posts-container .post-wrapper .post-info .readmore:hover {
-  background: #9acf6a;
+  background: #134e96;
   color: #fff;
 }
 .main-container .latest-posts-container.layout2 {
@@ -1388,7 +1388,7 @@
   -o-transition: all .4s ease-out;
 }
 .main-container .shop-now {
-  color: #9acf6a;
+  color: #134e96;
   display: inline-block;
   line-height: 1;
   font-size: 0.92em;
@@ -1420,10 +1420,10 @@
   padding: 0 !important;
 }
 .footer.footer-2 .newsletter-container .mc4wp-form-fields .from-input .button {
-  background: #9acf6a;
+  background: #134e96;
 }
 .footer.footer-2 .newsletter-container .mc4wp-form-fields .from-input .button:hover {
-  background: #80c343;
+  background: #0d3669;
 }
 .footer.footer-4 .newsletter-container .mc4wp-form-fields .from-input .button {
   background: #d72828;
